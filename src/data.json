@@ -1,0 +1,156 @@
+{
+  "site": {
+    "name": "XingYue Yang"
+  },
+  "profile": {
+    "name": "XingYue Yang",
+    "fullName": "Sophie Yang",
+    "image": "profile",
+    "email": "iamyangxingyue@gmail.com",
+    "description": [
+      "Software Developer自我介紹?",
+      "Interested in travelling, art, education and culture",
+      "Your dream?"
+    ]
+  },
+  "workExp": [
+    {
+      "title": "職位???",
+      "info": "Yinong Public Welfare Foundation",
+      "time": "Jan 2015 - Dec 2015",
+      "description": [
+        "Main Tasks:",
+        [
+          "Planning and Organizing activities (Marketing & Offline)",
+          "Designing advertising campaign",
+          "Managing social media page & account (Wechat)",
+          "Photographing"
+        ]
+      ],
+      "tags": [ "Wechat", "Marketing", "Advertising", "Photography", "Photoshop" ]
+    },
+    {
+      "title": "職位??? Founder?",
+      "info": "Moonbow Photography studio",
+      "time": "Oct 2010 - Jul 2013",
+      "description": [
+        "Main Tasks:",
+        [
+          "Photographing",
+          "Customer communication"
+        ]
+      ],
+      "tags": [ "Photography", "Photoshop" ]
+    }
+  ],
+  "education": [
+    {
+      "title": "MBA MSC IPAG (Major: New technology information and communications)",
+      "info": "Institute of Administration and Management Preparedness",
+      "time": "2018 - Now",
+      "description": [
+        "Main topics:",
+        [
+          "Sales & Marketing (Internet marketing、mobile marketing)",
+          "Website management",
+          "Intercultural Management",
+          "Public relations",
+          "Art history"
+        ]
+      ],
+      "tags": [ "Wordpress", "Marketing", "Website", "Public relations", "Art"]
+    },
+    {
+      "title": "Bachelor of Science in Mathematics, Bachelor of Engineering in Information Engineering",
+      "info": "The Chinese University of Hong Kong (CUHK)",
+      "time": "Sep 2008 - Jun 2012",
+      "tags": [ "Linear Algebra", "Graph Theory", "Game Theory", "Image Processing", "Web Programming" ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "ReLinks",
+      "info": "Scholarly Literature Searching Platform",
+      "image": "relinks",
+      "link": "https://victor77dev.github.io/relinks-client",
+      "github": [
+        "https://github.com/victor77dev/relinks-server",
+        "https://github.com/victor77dev/relinks-client"
+      ],
+      "description": [
+        "A platform providing Linkages of Research papers.",
+        "Aim to help scholars, especially newcomers and scholars researching in new areas, by extracting relations and comments from papers."
+      ],
+      "tags": [ "Express", "Node.js", "MongoDB", "Mongoose", "React", "React-Saga", "Redux", "React Boilerplate",
+        "Material UI", "Pdf Js", "arXiv", "Research", "Searching Platform"
+      ]
+    },
+    {
+      "title": "302 Projects (Found Projects)",
+      "info": "Visualization of Projects Searching",
+      "image": "302projects",
+      "link": "https://victor77dev.github.io/302projects",
+      "github": [
+        "https://github.com/victor77dev/302projects"
+      ],
+      "description": [
+        "A platform for searching and visualizing of existing projects.",
+        "Aim to help developers to find their interested projects by providing better visualization of existing projects."
+      ],
+      "tags": [ "React", "Vis.js", "React-Saga", "Redux", "React Boilerplate",
+        "Visualization", "Searching Platform"
+      ]
+    },
+    {
+      "title": "Login System",
+      "info": "User Login and Registration System",
+      "image": "loginSystem",
+      "link": "https://victor77dev.github.io/login_system",
+      "github": [
+        "https://github.com/victor77dev/login_system"
+      ],
+      "description": [
+        "A Login and Registration authentication system.",
+        "Created using Express, React, MongoDB, Passport.js and JsonWebToken (JWT)."
+      ],
+      "tags": [ "React", "Express", "Passport.js", "JsonWebToken (JWT)", "MongoDB", "Bcrypt", "Redux-Form", "Redux-Thunk", "Authentication" ]
+    },
+    {
+      "title": "Touch 25",
+      "info": "React & Redux Game",
+      "image": "touch25",
+      "link": "https://victor77dev.github.io/touch25",
+      "github": [
+        "https://github.com/victor77dev/touch25"
+      ],
+      "description": [
+        "A simple game timing how fast you clicked from 1 to 25. Created using React + Material UI."
+      ],
+      "tags": [ "React", "Redux", "Material UI", "Redux-Thunk", "Game" ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Mobile Video Streaming with Video Quality and Streaming Performance Guarantees",
+      "info": "WiMob 2015",
+      "publications": [
+        "https://ieeexplore.ieee.org/document/7348000"
+      ],
+      "description": [
+        "Quality Guarantees Mobile Video Streaming Algorithm based on Network 3G throughput trace data analysis"
+      ],
+      "tags": [ "Mobile Video Streaming Algorithms", "Video Quality", "Streaming Performance" ]
+    },
+    {
+      "title": "Exploiting Trace Data for Adaptive Mobile Video Streaming with Performance Guarantees",
+      "info": "BigMM 2016",
+      "publications": [
+        "https://www.computer.org/csdl/proceedings/bigmm/2016/2179/00/2179a089-abs.html"
+      ],
+      "description": [
+        "Quality Guarantees Mobile Video Adaptive Streaming Algorithm based on Network 3G throughput trace data analysis"
+      ],
+      "tags": [ "Mobile Video Streaming Algorithms", "Adaptive Streaming", "Video Quality", "Streaming Performance" ]
+    }
+  ]
+}
